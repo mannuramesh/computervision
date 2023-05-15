@@ -6,3 +6,8 @@ you are welcome to commit any changes, personal or commercial use, issue errors,
 
 i have given weights link below download it because of huge file size i could not upload it into git.......u can use
 download limk below and paste it into dnn_model folder with other contents
+
+
+download link:-
+
+https://drive.google.com/file/d/1U1vjyAkPUKZn5_a7FersCqz3pzDUrzVb/view?usp=sharing
